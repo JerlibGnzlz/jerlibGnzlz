@@ -3,7 +3,7 @@
 
 
 
-Habilidades: Full Stack Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSql | Sequelize | Postman
+
 
 - 🔭 Estoy trabajando en this page. 
 <p align="center" width="300">
@@ -13,3 +13,5 @@ Habilidades: Full Stack Developer | JavaScript | ReactJS | NodeJS | ExpressJS | 
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> <br />¡Revisa mi contenido 👇!</p>
 <p align="center">
+
+   Habilidades: Full Stack Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSql | Sequelize | Postman
