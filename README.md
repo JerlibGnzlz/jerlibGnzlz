@@ -13,4 +13,4 @@
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> <br />¡🇻🇪 🇦🇷!</p>
 <p align="center">
 
-             Habilidades: Full Stack Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSql | Sequelize | Postman
+          Habilidades: Full Stack Developer | JavaScript | ReactJS | NodeJS | ExpressJS | PostgreSql | Sequelize | Postman
