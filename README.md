@@ -28,17 +28,21 @@ const aboutMe = {
 Soy un Desarrollador Full Stack apasionado por mi carrera en informatica.
 </p>
 
-**💼 Currently working as:**
-
-
-
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 
 <div align="center">
+**💼 Currently working as:**<br><br>
 
-**📫 Reach me at:**<br>
+
+<div align="center">
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+</code>
+<code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<br><br>
+<div align="center">
+
+**📫 Reach me at:**<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/jerlibgnzlz/) 
 
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/JerlibGnzlz?label=Jerlibgnzlz&style=social)](https://github.com/JerlibGnzlz)
