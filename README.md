@@ -6,16 +6,16 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [ HTML5, CSS3,Javascript],
+   code: [ HTML5 , CSS3 , Javascript],
    technologies: {
       frontEnd: {
-         js: ["React" ,"Redux"],
-         css: ["Materialize", "Bootstrap"]
+         js: ["React" , "Redux"],
+         css: ["Materialize" , "Bootstrap"]
       },
       backEnd: {
          js: ["NodeJs", "Express" , "Sequilize"],
        },
-      databases: ["MongoDB", "PostgresSQL" ],
+      databases: ["MongoDB" , "PostgresSQL"],
       
 
 ```
@@ -25,7 +25,7 @@ const aboutMe = {
 
 
 <p align="center">
-Soy un Desarrollador Full Stack apasionado por mi carrera en informatica.
+I am a full stack developer passionate about my career in IT.
 </p>
 
 
