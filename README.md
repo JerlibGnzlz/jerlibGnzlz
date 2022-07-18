@@ -6,14 +6,14 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [ HTML5, CSS3,Javascript],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React" ,"Redux"],
          css: ["Materialize", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["NodeJs", "Express" , "Sequilize"],
        },
       databases: ["MongoDB", "PostgresSQL" ],
       
@@ -41,6 +41,9 @@ Soy un Desarrollador Full Stack apasionado por mi carrera en informatica.
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <br><br>
 <div align="center">
+
+
+
 
 **📫 Reach me at:**<br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/jerlibgnzlz/) 
