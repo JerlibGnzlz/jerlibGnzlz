@@ -5,18 +5,20 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [ HTML5 , CSS3 , Javascript],
-   technologies: {
-      frontEnd: {
-         js: ["React" , "Redux"],
-         css: ["Materialize" , "Bootstrap"]
-      },
-      backEnd: {
-         js: ["NodeJs", "Express" , "Sequilize"],
-       },
-      databases: ["MongoDB" , "PostgresSQL"],
-      
+    pronouns: "he" | "him",
+    code: [HTML5, CSS3, Javascript],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["Materialize", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["NodeJs", "Express", "Sequilize"],
+        },
+        databases: ["MongoDB", "PostgresSQL"]
+    }
+};
+
 
 ```
 
