@@ -17,7 +17,7 @@ const aboutMe = {
         },
         databases: ["MongoDB", "Postgres"]
     },
-    ORM:["Secuelize"]
+    ORM:["Secuelize","Mongoose"]
 };
 
 
