@@ -6,14 +6,14 @@
 ```javascript
 const aboutMe = {
     pronouns: "he" | "him",
-    code: [HTML5, CSS3, Javascript],
+    code: [IDE:{"vsCode","intelliJ IDEA"}],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
             css: ["Materialize", "Bootstrap","TailWind CSS"]
         },
         backEnd: {
-            js: ["NodeJs", "Express"],
+            js: ["NodeJs", "Express","Java","sprintBoot"],
         },
         databases: ["MongoDB", "Postgres"]
     },
