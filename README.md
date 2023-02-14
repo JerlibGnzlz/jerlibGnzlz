@@ -10,12 +10,12 @@ const aboutMe = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-            css: ["Materialize", "Bootstrap","TailWinds"]
+            css: ["Materialize", "Bootstrap","TailWind CSS"]
         },
         backEnd: {
             js: ["NodeJs", "Express"],
         },
-        databases: ["MongoDB", "PostgresSQL"]
+        databases: ["MongoDB", "Postgres"]
     },
     ORM:["Secuelize"]
 };
