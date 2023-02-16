@@ -17,9 +17,11 @@ const Skills=[
                {
                   DataBases:[MongoDb,Postgres,Mongoose,Secuelize]
                },
-                  service_management:[Jira]
                {
-                  Stack:[MERN,PERN]
+                  Service_Management:[Jira]
+               },
+               {
+                  Stack:[Mern,Pern]
                }, 
             ];  
             
