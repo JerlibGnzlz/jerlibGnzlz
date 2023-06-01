@@ -49,7 +49,11 @@ I am a full stack developer passionate about my career in IT.
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 </code>
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+  <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="file:///home/jerlibgnzlz/Descargas/icons8-flutter.svg"></a></code>
 <br><br>
+  
+  
+  
 <div align="center">
 
 
@@ -59,6 +63,8 @@ I am a full stack developer passionate about my career in IT.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/jerlibgnzlz/) 
 
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/JerlibGnzlz?label=Jerlibgnzlz&style=social)](https://github.com/JerlibGnzlz)
+  
+ 
 
 
 
