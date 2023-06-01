@@ -54,14 +54,11 @@ I am a full stack developer passionate about my career in IT.
    <code><a href="https://www.mongodb.com/atlas/database" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
     <code><a href="https://www.postgresql.org/" target="_blank"><img height="50"
-  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
-  
+                                                               src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
   <code><a href="https://dart.dev/" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
-  
     <code><a href="https://sequelize.org/" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></a></code>
-  
     <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
   
