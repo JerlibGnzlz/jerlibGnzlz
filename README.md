@@ -24,7 +24,7 @@ const Skills=[
                   Stack:[Mern,Pern]
                }, 
                {
-                  mobile:[Dart,flutter]
+                  mobile:[Dart,Flutter]
                },
             ];  
             
