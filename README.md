@@ -49,7 +49,8 @@ I am a full stack developer passionate about my career in IT.
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 </code>
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-  <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="file:///home/jerlibgnzlz/Descargas/icons8-flutter.svg"></a></code>
+  <code><a href="https://nodejs.org/es/" target="_blank"><img height="50"
+  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <br><br>
   
   
