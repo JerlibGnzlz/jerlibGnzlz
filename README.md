@@ -61,8 +61,32 @@ I am a full stack developer passionate about my career in IT.
   src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></a></code>
     <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-  
+  <code><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img height="50"
+  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+   <code><a href="https://tailwindcss.com/" target="_blank"><img height="50"
+  src=" https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a></code>
+   <code><a href="https://www.atlassian.com/software/jira/bitbucket-integration" target="_blank"><img height="50"
+  src="  https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg
+  "></a></code>
+   <code><a href="https://www.debian.org/index.es.html" target="_blank"><img height="50"
+  src="   https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></a></code>
+     <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50"
+  src="   https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+       <code><a href="https://git-scm.com/"><img height="50"
+  src="    https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <br><br>
+  
+  
+  
+ 
+  
+ 
+
+  
+ 
+  
+ 
+  
   
   
   
