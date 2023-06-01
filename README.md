@@ -57,7 +57,7 @@ src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
   <code><a href="https://expressjs.com/es/" target="_blank"><img height="50" 
-src=" https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a></code>
+src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a></code>
   <code><a href="https://nestjs.com/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
     <code><a href="https://dart.dev/" target="_blank"><img height="50"
