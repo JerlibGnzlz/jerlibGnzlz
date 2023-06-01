@@ -15,6 +15,9 @@ const Skills=[
                   Backend:[Node,Express]
                },
                {
+                  mobile:[Dart,Flutter]
+               },
+               {
                   DataBases:[MongoDb,Postgres,Mongoose,Secuelize]
                },
                {
@@ -22,9 +25,6 @@ const Skills=[
                },
                {
                   Stack:[Mern,Pern]
-               }, 
-               {
-                  mobile:[Dart,Flutter]
                },
             ];  
             
