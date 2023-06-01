@@ -53,7 +53,8 @@ I am a full stack developer passionate about my career in IT.
   src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
    <code><a href="https://www.mongodb.com/atlas/database" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-  
+    <code><a href="https://www.postgresql.org/" target="_blank"><img height="50"
+  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></a></code>
   
 
 <br><br>
