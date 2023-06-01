@@ -51,6 +51,10 @@ I am a full stack developer passionate about my career in IT.
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
   <code><a href="https://nodejs.org/es/" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+  
+  
+  
+  https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg
 <br><br>
   
   
