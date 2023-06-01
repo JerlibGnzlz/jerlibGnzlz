@@ -31,7 +31,7 @@ const Skills=[
 ```
 
 
-<h1 align= "center"><b>OnCode :earth_asia:</b></h1>
+<h1 align= "center"><b>JerlibGnzlz :earth_asia:</b></h1>
 
 
 <p align="center">
