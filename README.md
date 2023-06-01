@@ -54,7 +54,7 @@ I am a full stack developer passionate about my career in IT.
   
   
   
-  https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg
+https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg
 <br><br>
   
   
