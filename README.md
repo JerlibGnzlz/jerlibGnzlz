@@ -12,7 +12,7 @@ const Skills=[
                   Frontend:[Html,Css,Javascript,React,Redux]
                },
                {
-                  Backend:[Node,Express,typescript]
+                  Backend:[Node,Express,Typescript]
                },
                {
                   mobile:[Dart,Flutter]
