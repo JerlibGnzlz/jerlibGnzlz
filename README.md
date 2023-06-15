@@ -26,6 +26,9 @@ const Skills=[
                {
                   Stack:[Mern,Pern]
                },
+                {
+                  otherSkills:[Multer, Cloudinary, Swagger]
+               },
             ];  
             
 ```
