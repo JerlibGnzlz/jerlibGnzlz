@@ -18,7 +18,7 @@ const Skills=[
                   mobile:[Dart,Flutter]
                },
                {
-                  DataBases:[MongoDb,Postgres,Mongoose,Secuelize]
+                  DataBases:[MongoDb,MySql,Postgres,Mongoose,Secuelize]
                },
                {
                   Service_Management:[Jira]
