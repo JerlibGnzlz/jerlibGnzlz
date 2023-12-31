@@ -48,6 +48,7 @@ I am a full stack developer passionate about my career in IT.
 
 
 <div align="center">
+[  vectorlogo.zone/](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)
   <code><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
    <code><a href="https://tailwindcss.com/" target="_blank"><img height="50"
