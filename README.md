@@ -53,7 +53,7 @@ I am a full stack developer passionate about my career in IT.
   <code><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
    <code><a href="https://tailwindcss.com/" target="_blank"><img height="50"
-  src=" https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a></code>
+  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
   <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
