@@ -9,7 +9,7 @@ const Skills=[
                   IDE:[VsCode,IntelliJ]
                },
                {
-                  Frontend:[Html,Css,Tailwinds,Javascript,React,Angular]
+                  Frontend:[Html,Css,Tailwinds,Javascript,React,Angular,Next]
                },
                {
                   Backend:[Node,Express,Typescript]
