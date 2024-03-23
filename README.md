@@ -15,7 +15,7 @@ const Skills=[
                   Backend:[Node,Express,Typescript]
                },
                {
-                  mobile:[Dart,Flutter]
+                  mobile:[Dart,Flutter,React Native]
                },
                {
                   DataBases:[MongoDb,MySql,Postgres,Mongoose,Secuelize]
