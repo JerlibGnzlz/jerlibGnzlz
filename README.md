@@ -21,10 +21,13 @@ const Skills=[
                   DataBases:[MongoDb,MySql,Postgres,Mongoose,Secuelize,Prisma]
                },
                {
-                  Service_Management:[Jira]
+                  Deploy:[Vercel,Render,Heroku,EC2,Netlify]
                },
                {
-                  Stack:[Mern,Pern]
+                  Service_Management:[Jira,Trello]
+               },
+               {
+                  Stack:[Mern,Pern,Mean]
                },
                 {
                   otherSkills:[Multer, Cloudinary, Swagger]
