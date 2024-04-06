@@ -85,8 +85,6 @@ src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
   src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
        <code><a href="https://git-scm.com/"><img height="50"
   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-         <code><a href="https://developer.android.com/?hl=es-419"><img height="50"
-  src="https://www.vectorlogo.zone/logos/android/android-tile.svg"></a></code>
   <code><a href="https://www.debian.org/index.es.html" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></a></code>
     <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50"
