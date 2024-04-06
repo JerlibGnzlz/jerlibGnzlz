@@ -12,13 +12,13 @@ const Skills=[
                   Frontend:[Html,Css,Tailwinds,Javascript,React,Angular,Next]
                },
                {
-                  Backend:[Node,Express,Typescript]
+                  Backend:[Node,Express,Typescript,Nest]
                },
                {
                   mobile:[Dart,Flutter,React Native]
                },
                {
-                  DataBases:[MongoDb,MySql,Postgres,Mongoose,Secuelize]
+                  DataBases:[MongoDb,MySql,Postgres,Mongoose,Secuelize,Prisma]
                },
                {
                   Service_Management:[Jira]
