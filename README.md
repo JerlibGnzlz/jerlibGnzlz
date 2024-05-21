@@ -72,11 +72,6 @@ src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a></code>
   <code><a href="https://nestjs.com/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
 <br>
-  <code><a href="https://flutter.dev/" target="_blank"><img height="50"
-  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-    <code><a href="https://dart.dev/" target="_blank"><img height="50"
-  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
-  <br>
    <code><a href="https://www.mongodb.com/atlas/database" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
     <code><a href="https://www.postgresql.org/" target="_blank"><img height="50"
