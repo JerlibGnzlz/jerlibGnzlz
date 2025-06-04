@@ -53,6 +53,7 @@ I am a full stack developer passionate about my career in IT.
 <div align="center">
 
 
+
   <code><a href="https://developer.android.com/studio?hl=es-419" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img height="50"
@@ -66,13 +67,15 @@ I am a full stack developer passionate about my career in IT.
   src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+ <code><a href="https://nextjs.org/" target="_blank"><img height="50"
+  src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></a></code>
 <br>
 <code><a href="https://nodejs.org/es/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
   <code><a href="https://expressjs.com/es/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a></code>
-  <code><a href="https://nestjs.com/" target="_blank"><img height="50" 
-src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
+  <code><a href="https://nextjs.org/" target="_blank"><img height="50" 
+src="https://developer.android.com/studio?hl=es-419"></a></code>
 <br>
    <code><a href="https://www.mongodb.com/atlas/database" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
