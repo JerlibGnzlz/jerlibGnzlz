@@ -6,7 +6,7 @@
 ```javascript
 const Skills=[
                {
-                  IDE:[VsCode,IntelliJ]
+                  IDE:[VsCode,Android Studio]
                },
                {
                   Frontend:[Html,Css,Tailwinds,Javascript,React,Angular,Next]
@@ -15,7 +15,7 @@ const Skills=[
                   Backend:[Node,Express,Typescript,Nest]
                },
                {
-                  mobile:[React Native]
+                  mobile:[React Native, Kotlin Adndroid]
                },
                {
                   DataBases:[MongoDb,MySql,Postgres,Mongoose,Secuelize,Prisma]
