@@ -74,8 +74,8 @@ src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
   <code><a href="https://expressjs.com/es/" target="_blank"><img height="50" 
 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></a></code>
-  <code><a href="https://nextjs.org/" target="_blank"><img height="50" 
-src="https://developer.android.com/studio?hl=es-419"></a></code>
+  <code><a href="https://docs.nestjs.com/first-steps" target="_blank"><img height="50" 
+src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></a></code>
 <br>
    <code><a href="https://www.mongodb.com/atlas/database" target="_blank"><img height="50"
   src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
