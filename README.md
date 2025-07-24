@@ -9,7 +9,7 @@ const Skills=[
                   IDE:[VsCode,Android Studio]
                },
                {
-                  Frontend:[Html,Css,Tailwinds,Javascript,React,Angular,Next]
+                  Frontend:[Html,Css,Tailwinds,Javascript,React,Angular,Next, Redux Toolkit, TanStank Query]
                },
                {
                   Backend:[Node,Express,Typescript,Nest]
