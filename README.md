@@ -2,6 +2,10 @@
 <img width="20%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
+<img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/5c0ed55e-7fad-4023-935a-3587b2bec0fd" />
+
+
+
 
 ```javascript
 const Skills=[
