@@ -31,6 +31,9 @@ const Skills=[
                   Service_Management:[Jira,Trello]
                },
                {
+                  QE:[Jmeter, SonarQube]
+               },
+               {
                   Stack:[Mern,Pern,Mean]
                },
                 {
